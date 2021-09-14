@@ -4,6 +4,9 @@
 
 ## 2021
 
+* [CSAW Qualification Round](2021/csaw-qualification-round/README.md)
+  * [Crypto](2021/csaw-qualification-round/crypto/README.md)
+    * [Gotta Decrypt Them All](2021/csaw-qualification-round/crypto/gotta-decrypt-them-all.md)
 * [TMUCTF](2021/tmuctf/README.md)
   * [435!](2021/tmuctf/435.md)
   * [Common Factor](2021/tmuctf/common-factor.md)
